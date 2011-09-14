@@ -1,0 +1,5 @@
+boot-info-script (0.60-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Alexander Wirt <formorer@debian.org>  Wed, 14 Sep 2011 15:26:24 +0200

@@ -1,0 +1,13 @@
+Source: boot-info-script
+Section: admin
+Priority: extra
+Maintainer: Alexander Wirt <formorer@debian.org>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+Homepage: http://sourceforge.net/projects/bootinfoscript/
+
+Package: boot-info-script
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: debug helper for bootloader problems
+ boot-info-script helps to debug and probably fix problems with your bootloader
